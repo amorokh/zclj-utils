@@ -8,7 +8,7 @@ The purpose of this repository is to collect utils and common patterns and make 
 
 There will be some duplication among the files since to have a good copy-paste experience every file should be self contained.
 
-My hope is that this approach will lead to code that is easy to delete and to not create dependencies where none where needed.
+My hope is that this approach will lead to code that is easy to delete and change and to not create dependencies where none where needed.
 
 ## License
 
